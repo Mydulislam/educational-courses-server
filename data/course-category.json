@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "01",
+        "name" : "ACADEMIC"
+    },
+    {
+        "id" : "02",
+        "name" : "WEB DEVELOPMENT"
+    },
+    {
+        "id" : "03",
+        "name" : "BIG DATA & ANALYTICS"
+    },
+    {
+        "id" : "04",
+        "name" : "DATABASES"
+    },
+    {
+        "id" : "05",
+        "name" : "DIGITAL MARKETING"
+    },
+    {
+        "id" : "06",
+        "name" : "MACHINE LEARNING"
+    },
+    {
+        "id" : "07",
+        "name" : "MICROSOFT TECHNOLOGIES"
+    },
+    {
+        "id" : "08",
+        "name" : "COMPUTER PROGRAMMING"
+    },
+    {
+        "id" : "09",
+        "name" : "MOBILE DEVELOPMENT"
+    },
+    {
+        "id" : "10",
+        "name" : "COMPUTER SCIENCE"
+    }
+]
