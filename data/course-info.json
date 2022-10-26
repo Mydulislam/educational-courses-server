@@ -8,7 +8,7 @@
       "author" : {
         "name" : "Blair cook",
         "publish_date" : "10-12-2009",
-        "img" : ""
+        "img" : "https://www.tutorialspoint.com/assets/profiles/137804/profile/200_175574-1578059958.jpg"
       },
       "image_url": "https://images-na.ssl-images-amazon.com/images/I/41VTSAAXjRL._SX322_BO1,204,203,200_.jpg",
       "details": "Accounting is a business language. We can use this language to communicate financial transactions and their results. Accounting is a comprehensive system to collect, analyze, and communicate financial information.",
@@ -26,7 +26,7 @@
       "author" : {
         "name" : "Blair cook",
         "publish_date" : "10-12-2010",
-        "img" : ""
+        "img" : "https://www.tutorialspoint.com/assets/profiles/137804/profile/200_175574-1578059958.jpg"
       },
       "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/7114/course_7114_image.png",
       "details": "Forex Market is an exciting place. The one good thing about entering into the forex market is that you can trade anytime as per your convenience. The forex market is enormous in size and is the largest market with millions of participants.",
@@ -44,7 +44,7 @@
       "author" : {
         "name" : "Blair cook",
         "publish_date" : "",
-        "img" : ""
+        "img" : "https://www.tutorialspoint.com/assets/profiles/137804/profile/200_175574-1578059958.jpg"
       },
       "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/2016/course_2016_image.png",
       "details": "This Statistics preparation material will cover the important concepts of Statistics syllabus. It contains chapters discussing all the basic concepts of Statistics with suitable examples.",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "_id": "635777764298fdeb630fca1e",
+      "_id": "635777764298fdeb630fcas1e",
       "category_id": "02",
       "rating" : {"number" : 4.5, "badge" : "good"},
       "total_view" : 500,
@@ -126,7 +126,7 @@
       }
     },
     {
-      "_id": "635777764298fdeb630fca1",
+      "_id": "635777764298fdeb630sfca1",
       "category_id": "02",
       "rating" : {"number" : 4.5, "badge" : "good"},
       "total_view" : 500,
@@ -206,7 +206,7 @@
       "author" : {
         "name" : "Code And Create",
         "publish_date" : "02-05-2012",
-        "img" : "tutorialspoint.com/assets/profiles/318090/profile/200_208518-1615795556.jpeg"
+        "img" : "https://www.tutorialspoint.com/assets/profiles/137804/profile/200_175574-1578059958.jpg"
       },
       "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/4430/course_4430_image.jpg",
       "details": "SASS (Syntactically Awesome Stylesheet) is a CSS pre-processor, which helps to reduce repetition with CSS and saves time. It is more stable and powerful CSS extension language that describes the style of document structurally. This tutorial covers the basics of SASS.",
@@ -540,7 +540,7 @@
         }
       },
       {
-        "_id": "456554785564299fdeb637gcva1ew",
+        "_id": "456554785564299fdeb637sgcva1ew",
         "category_id": "09",
         "rating" : {"number" : 4.6, "badge" : "good"},
         "total_view" : 450,
