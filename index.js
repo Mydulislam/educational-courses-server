@@ -3,9 +3,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors())
 const port = process.env.PORT || 5000;
-app.get('/', (req, res)=>{
-    res.send('server api running')
-})
+
 const courseCategories = require('./data/course-category.json');
 const courseInfo = require('./data/course-info.json');
 
